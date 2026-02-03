@@ -5,7 +5,7 @@ This project also features file handling to save and load the highest score.
 ## 📁 Project Structure
 * `main.py` - The entry point to start the game.
 * `snake.py` - Handles the snake body and movement logic.
-* `food.py` - Manages food spawning and collisions.
+* `food.py` - Manages food spawning.
 * `scoreboard.py` - Tracks current score and persists the highest score to a data file.
 * `data.txt` - txt file with the highest score achieved.
 
