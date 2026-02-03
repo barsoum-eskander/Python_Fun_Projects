@@ -10,9 +10,12 @@ This project also features file handling to save and load the highest score.
 * `data.txt` - txt file with the highest score achieved.
 
 ## 🚀 How to Run
-1. **Ensure you have Python installed.**
-2. **Navigate to this folder** in your terminal:
+1. **Clone this repository** to your local machine:
+   ```bash
+   git clone [https://github.com/barsoum-eskander/Python_Fun_Projects.git](https://github.com/barsoum-eskander/Python_Fun_Projects.git)
+2. **Ensure you have Python installed.**
+3. **Navigate to this folder** in your terminal:
    ```bash
    cd Snake_Game
-3. Run python main.py
+4. Run python `main.py` 
    Note: A GUI window will open. Use the Arrow Keys on your keyboard to control the snake.
