@@ -1,4 +1,4 @@
-# 🐍 Python Fun Projects
+# 🐍 Python Fun Projects ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 A collection of mini-games and fun tools built to master Python fundamentals.
 
 ## 📂 Projects
