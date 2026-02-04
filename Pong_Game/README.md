@@ -1,4 +1,4 @@
-# Pong Game
+# 🟦 ⚪ 🟦 Pong Game
 A classic arcade game built using the `turtle` library and `random` module from the Python standard library.
 
 ## 📁 Project Structure
