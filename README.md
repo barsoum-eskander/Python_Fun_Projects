@@ -1,4 +1,4 @@
-# 🐍 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="vertical-align: -20px; margin-bottom: -20px;"> Python Fun Projects 
+# 🐍 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" style="vertical-align: -40px; margin-bottom: -40px;"> Python Fun Projects 
 A collection of mini-games and fun tools built to master Python fundamentals.
 
 ## 📂 Projects
