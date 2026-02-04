@@ -1,4 +1,4 @@
-# Snake Game
+# 🐍 Snake Game
 A classic arcade game built using Python and the `turtle` library and `time` module from the Python standard library.
 This project also features file handling to save and load the highest score.
 
